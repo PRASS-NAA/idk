@@ -1,2 +1,2 @@
 console.log("keep this idiotic file untracked ! ")
-console.log("use .gitignore or rm ");
+console.log("i changed this line from branch 1");
