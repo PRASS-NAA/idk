@@ -1,3 +1,3 @@
-console.log("keep this idiotic file untracked ! ")
-console.log("i changed this line from branch 1");
-conosle.log("i was created by branch1 ");
+console.log("resolved");
+console.log(" i m being changed by branch2 ");
+console.log(" 2 + 2 = 8");
